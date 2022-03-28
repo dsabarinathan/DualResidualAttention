@@ -26,7 +26,7 @@ Open the powershell or terminal
 $cd yourpathtoLightWeightModel
 
 $pwd
-> ~/LightWeightModel
+> ~/DualResidualAttention
 
 $pip install --upgrade -r requirements.txt
 
