@@ -3,6 +3,11 @@ Dual  Residual Channel Attention Net for Spectral Reconstruction
 
 This model has been created in the NTIRE 2022 Challenge on Spectral Reconstruction from RGB competition. We secured the 10th position in the competition. Our goal is to create a lighweight spectral reconstuction model. It can be used in mobile devices and normal computers. if we are able to get the high quality spectral images from RGB , we can find quality of the food prodcuts from mobile phone or normal laptop.
 
+## Proposed network architecture diagram
+![alt text](https://github.com/sabaridsn/DualResidualAttention/blob/main/architecture.png)
+
+## Dual residual block diagram 
+![alt text](https://github.com/sabaridsn/DualResidualAttention/blob/main/Dual_Residual_Channel_attentionDiagram.png)
 ## Environment
 
 1. Python 3.6.4
