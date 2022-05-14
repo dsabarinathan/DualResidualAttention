@@ -42,3 +42,14 @@ $pip install --upgrade -r requirements.txt
 $python test_v2.py --testImagePath=yourpathtoimages
 ```
 
+## test results
+
+| Data size  | Data  |  MRAE  |  RMSE  |
+| :------: | :------: | :-------: | :-------: |  
+| 100  | Training Data  | 0.73984  | 0.07509  |
+| 50  | Validation Data  | 0.7795  | 0.1016  |
+
+## Reference 
+
+1. ["Coordinate 2D Convolution layer"](https://github.com/titu1994/keras-coordconv)
+2. ["LightWeightModel"](https://github.com/sabaridsn/LightWeightModel)
